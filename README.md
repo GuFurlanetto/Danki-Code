@@ -1,2 +1,3 @@
 # Danki-Code
-Sites criados durante o curso da Danki Code
+
+Primeiro site criado no curso de Desenvolvimento WEB da Danki Code
